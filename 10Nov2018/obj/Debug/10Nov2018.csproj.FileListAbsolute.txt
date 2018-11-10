@@ -1,0 +1,6 @@
+D:\Acuvate\Batch2\Practice\CSharp\10Nov2018\bin\Debug\10Nov2018.exe.config
+D:\Acuvate\Batch2\Practice\CSharp\10Nov2018\bin\Debug\10Nov2018.exe
+D:\Acuvate\Batch2\Practice\CSharp\10Nov2018\bin\Debug\10Nov2018.pdb
+D:\Acuvate\Batch2\Practice\CSharp\10Nov2018\obj\Debug\10Nov2018.exe
+D:\Acuvate\Batch2\Practice\CSharp\10Nov2018\obj\Debug\10Nov2018.pdb
+D:\Acuvate\Batch2\Practice\CSharp\10Nov2018\obj\Debug\10Nov2018.csprojResolveAssemblyReference.cache
